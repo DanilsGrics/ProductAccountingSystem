@@ -1,0 +1,4 @@
+Database\ProductRepositoryTest.class
+Database\CategoryTest.class
+Service\ProductTest.class
+Service\CategoryDoesNotExistExceptionTest.class

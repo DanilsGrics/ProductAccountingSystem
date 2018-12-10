@@ -1,0 +1,7 @@
+Service\Product.class
+Database\ProductRepository.class
+UIConsole\ProductAccountingRepository.class
+Database\Category.class
+Service\Repository.class
+Service\CategoryDoesNotExistException.class
+UIConsole\UserInterface.class
