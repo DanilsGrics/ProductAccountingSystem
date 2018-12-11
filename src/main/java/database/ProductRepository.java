@@ -1,4 +1,4 @@
-package Database;
+package database;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -6,8 +6,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import Service.Product;
-import Service.Repository;
+import service.Product;
+import service.Repository;
 
 
 public class ProductRepository implements Repository<Product> {

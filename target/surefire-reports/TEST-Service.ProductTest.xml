@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="12" failures="0" name="Service.ProductTest" time="0.008" errors="0" skipped="0">
+<testsuite tests="12" failures="0" name="service.ProductTest" time="0.016" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2018.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -45,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_181\jre"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.3 org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5:assembly"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.3 install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="ru"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -62,16 +62,16 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="Service.ProductTest" name="getPriceTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="getDiscountTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="updateActualPriceIfPriceChangedTest" time="0.008"/>
-  <testcase classname="Service.ProductTest" name="setDiscountFailTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="setCategoryTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="setPriceSuccessTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="getDescriptionTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="setPriceFailTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="setDiscountSuccessTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="setDescriptionTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="updateActualPriceIfDiscountChangedTest" time="0"/>
-  <testcase classname="Service.ProductTest" name="getCategoryTest" time="0"/>
+  <testcase classname="service.ProductTest" name="getPriceTest" time="0"/>
+  <testcase classname="service.ProductTest" name="getDiscountTest" time="0"/>
+  <testcase classname="service.ProductTest" name="updateActualPriceIfPriceChangedTest" time="0"/>
+  <testcase classname="service.ProductTest" name="setDiscountFailTest" time="0"/>
+  <testcase classname="service.ProductTest" name="setCategoryTest" time="0"/>
+  <testcase classname="service.ProductTest" name="setPriceSuccessTest" time="0"/>
+  <testcase classname="service.ProductTest" name="getDescriptionTest" time="0"/>
+  <testcase classname="service.ProductTest" name="setPriceFailTest" time="0"/>
+  <testcase classname="service.ProductTest" name="setDiscountSuccessTest" time="0"/>
+  <testcase classname="service.ProductTest" name="setDescriptionTest" time="0"/>
+  <testcase classname="service.ProductTest" name="updateActualPriceIfDiscountChangedTest" time="0.016"/>
+  <testcase classname="service.ProductTest" name="getCategoryTest" time="0"/>
 </testsuite>

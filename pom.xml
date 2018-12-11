@@ -14,7 +14,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>UIConsole.ProductAccountingRepository</mainClass>
+                            <mainClass>uiconsole.ProductAccountingRepository</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

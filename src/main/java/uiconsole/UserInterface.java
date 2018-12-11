@@ -1,13 +1,13 @@
-package UIConsole;
+package uiconsole;
 
 import java.math.BigDecimal;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import Database.Category;
-import Database.ProductRepository;
-import Service.CategoryDoesNotExistException;
-import Service.Product;
+import database.Category;
+import database.ProductRepository;
+import service.CategoryDoesNotExistException;
+import service.Product;
 
 
 public class UserInterface {

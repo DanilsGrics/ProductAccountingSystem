@@ -1,6 +1,6 @@
-package UIConsole;
+package uiconsole;
 
-import Service.CategoryDoesNotExistException;
+import service.CategoryDoesNotExistException;
 
 public class ProductAccountingRepository {
 

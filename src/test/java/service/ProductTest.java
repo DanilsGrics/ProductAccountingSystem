@@ -1,10 +1,10 @@
-package Service;
+package service;
 
 import org.junit.Test;
 
 import java.math.BigDecimal;
 
-import Database.Category;
+import database.Category;
 
 import static org.junit.Assert.assertEquals;
 

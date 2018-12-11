@@ -1,10 +1,10 @@
-package Service;
+package service;
 
 import java.math.BigDecimal;
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicLong;
 
-import Database.Category;
+import database.Category;
 
 
 public class Product {

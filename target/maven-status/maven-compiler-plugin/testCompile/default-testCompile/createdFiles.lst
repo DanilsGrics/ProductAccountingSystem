@@ -1,4 +1,4 @@
-Database\ProductRepositoryTest.class
-Database\CategoryTest.class
-Service\ProductTest.class
-Service\CategoryDoesNotExistExceptionTest.class
+service\ProductTest.class
+service\CategoryDoesNotExistExceptionTest.class
+database\CategoryTest.class
+database\ProductRepositoryTest.class

@@ -1,7 +1,7 @@
-package Database;
+package database;
 
 
-import Service.CategoryDoesNotExistException;
+import service.CategoryDoesNotExistException;
 
 public enum Category {
 

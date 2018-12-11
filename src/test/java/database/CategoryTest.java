@@ -1,8 +1,8 @@
-package Database;
+package database;
 
 import org.junit.Test;
 
-import Service.CategoryDoesNotExistException;
+import service.CategoryDoesNotExistException;
 
 import static org.junit.Assert.*;
 

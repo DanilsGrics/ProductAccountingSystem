@@ -1,8 +1,8 @@
-package Service;
+package service;
 
 import org.junit.Test;
 
-import Database.Category;
+import database.Category;
 
 public class CategoryDoesNotExistExceptionTest {
 

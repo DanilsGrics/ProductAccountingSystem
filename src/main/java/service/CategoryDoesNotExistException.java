@@ -1,4 +1,4 @@
-package Service;
+package service;
 
 public class CategoryDoesNotExistException extends IllegalArgumentException {
 

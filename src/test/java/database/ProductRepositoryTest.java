@@ -1,4 +1,4 @@
-package Database;
+package database;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -7,8 +7,8 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-import Service.CategoryDoesNotExistException;
-import Service.Product;
+import service.CategoryDoesNotExistException;
+import service.Product;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
